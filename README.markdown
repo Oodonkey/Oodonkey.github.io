@@ -8,7 +8,7 @@ This is a **text** sample. __amazing__ #文本两边加两个** 或者 __ 是加
 
 *italic* 文本两边加一个*，斜体效果。
 
-This is a [hyperlink](https://github.com/neolee/pilot). #中括号里面是超链接的文本，小括号里面是超链接的地址。
+This is a [hyperlink](more.md). #中括号里面是超链接的文本，小括号里面是超链接的地址。
 
 ---
  #水平分割线 --- ，分段落用的。效果见上面👆 cool😎
